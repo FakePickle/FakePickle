@@ -21,9 +21,6 @@ I am also a passionate in the field of CyberSecurity. I am still in the learning
 ## Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FakePickle&layout=compact&theme=tokyonightshow_icons=true)](https://github.com/FakePickle)
 
-## Recent Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FakePickle&theme=tokyonight)
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-mistry-977094252/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ig.hxrsh_1/)
