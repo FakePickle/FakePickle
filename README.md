@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## About Me
-> I am [Harsh Mistry](https://github.com/FakePickle)
-> I am a 2nd year Student at IIITD. I am in CSE Branch.
-> I am a aspiring software developer who is well versed in multiple coding languages.
-> I am also passionate in the field of CyberSecurity.
+* I am [Harsh Mistry](https://github.com/FakePickle)
+* I am a 2nd year Student at IIITD. I am in CSE Branch.
+* I am a aspiring software developer who is well versed in multiple coding languages.
+* I am also passionate in the field of CyberSecurity.
 
 ## GitHub Stats
 [![FakePickle](https://github-readme-stats.vercel.app/api?username=FakePickle&show_icons=true&theme=tokyonight&show_icons=true)](https://github.com/FakePickle)
