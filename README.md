@@ -4,8 +4,6 @@
 I am a 2nd year Student at IIITD. I am in CSE Branch and I am a passionate software developer well versed in multiple languages.
 I am also passionate in the field of CyberSecurity.
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FakePickle)
-
 ## GitHub Stats
 [![FakePickle](https://github-readme-stats.vercel.app/api?username=FakePickle&show_icons=true&theme=tokyonight&show_icons=true)](https://github.com/FakePickle)
 
@@ -22,8 +20,6 @@ I am also passionate in the field of CyberSecurity.
 
 ## Most Used Languages
 [![Harsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FakePickle&layout=compact&theme=tokyonightshow_icons=true)](https://github.com/FakePickle)
-
-[![Harsh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FakePickle)](https://github.com/FakePickle/github-readme-stats)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-mistry-977094252/)
