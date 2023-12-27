@@ -2,7 +2,9 @@
 
 ## About Me
 I am a 2nd year Student at IIITD. I am in CSE Branch and I am a passionate software developer well versed in multiple languages.
-I am also a passionate in the field of CyberSecurity. I am still in the learning stage.
+I am also passionate in the field of CyberSecurity.
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FakePickle)
 
 ## GitHub Stats
 [![FakePickle](https://github-readme-stats.vercel.app/api?username=FakePickle&show_icons=true&theme=tokyonight&show_icons=true)](https://github.com/FakePickle)
