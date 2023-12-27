@@ -21,7 +21,9 @@ I am also passionate in the field of CyberSecurity.
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ## Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FakePickle&layout=compact&theme=tokyonightshow_icons=true)](https://github.com/FakePickle)
+[![Harsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FakePickle&layout=compact&theme=tokyonightshow_icons=true)](https://github.com/FakePickle)
+
+[![Harsh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FakePickle)](https://github.com/FakePickle/github-readme-stats)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-mistry-977094252/)
