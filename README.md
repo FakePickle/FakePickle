@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Harsh Mistry currently pursuing my Undergraduate Degree in IIITD.<br>I'm currently working on Bit-Torrent Client in Go.<br>My interest lies in the field of CyberSecurity.
+I'm Harsh Mistry currently pursuing my Undergraduate Degree in IIITD.<br>I'm currently working on Bit-Torrent Client in Go.<br>Fellow Arch Linux user.<br>You can find my configs in the pinned repository.<br>Also really keen towards learning more of cybersecurity.
 
 
 ## 🌐 Socials:
